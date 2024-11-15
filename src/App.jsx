@@ -66,8 +66,6 @@ const App = () => {
 
 export default App;
 
-// Styled Components
-
 const Container = styled.div`
   display: flex;
   flex-direction: column;
